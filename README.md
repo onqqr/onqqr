@@ -2,7 +2,7 @@
                        -+                 - whoami -
                        --                 
                        --                 Software Engineer | Angular Developer | .NET Developer
-                       --                 (2+ years)
+                       --                 (2+ years commercial exp)
                        --                 
                        --                 ------------
                        +-                 OS ..................... macOS / windows
