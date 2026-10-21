@@ -9,8 +9,8 @@
                       .--                 IDE .................... Cursor / vscode / Rider
              .+++.    --+.                AI-tools ............... Cursor AI
              ---+-   .+##+                Langs .................. JS, TS, C#, Python
-             ...-    .++++                Core ................... Angular v14-22, Vue 3, .NET
-           .   .     -+. +.               BE / API ............... OpenAPI, REST API, GraphQL, Node.js
+             ...-    .++++                Core ................... Angular v14-22 (Signals, RxJS, NgRx)
+           .   .     -+. +.               BE / API ............... .NET, REST API, GraphQL, Node.js, OpenAPI
        ........     -++  ++               Database ............... PostgreSQL, MySQL, MS SQL
      ...------...  .++++++++              DevOps ................. Docker, CI/CD (Jenkins), Firebase, Keycloak
 ..-. ...--+####+-.   .+--++#-.......      Workflow ............... Git (GitLab, BitBucket), Webpack, npm, nvm
