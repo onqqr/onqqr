@@ -1,24 +1,24 @@
 ```text
-                       -+                 - whoami -
+                       -+                 - WHO AM I -
                        --                 
                        --                 Software Engineer | Angular Developer | .NET Developer
                        --                 (2+ years commercial exp)
                        --                 
-                       --                 ------------
-                       +-                 OS ..................... macOS / windows
-                      .--                 IDE .................... cursor / vscode / rider
-             .+++.    --+.                AI-tools ............... cursor AI
-             ---+-   .+##+                Langs .................. js, ts, c#, python
-             ...-    .++++                Core ................... angular v14-22, vue 3, .net
-           .   .     -+. +.               BE / API ............... openapi, rest api, graphql, node.js
-       ........     -++  ++               Database ............... postgresql, mysql, ms sql
-     ...------...  .++++++++              DevOps ................. docker, ci/cd (jenkins), firebase, keycloak
-..-. ...--+####+-.   .+--++#-.......      workflow ............... git (gitlab, bitbucket), webpack, npm, nvm
---+- .-.-########+-..+--..-+#++++#+++++   Management / Design .... jira, trello, asana, slack, crm, figma, adobe cc
+                       --                 ------------------------------------------------------
+                       +-                 OS ..................... macOS / Windows
+                      .--                 IDE .................... Cursor / vscode / Rider
+             .+++.    --+.                AI-tools ............... Cursor AI
+             ---+-   .+##+                Langs .................. JS, TS, C#, Python
+             ...-    .++++                Core ................... Angular v14-22, Vue 3, .NET
+           .   .     -+. +.               BE / API ............... OpenAPI, REST API, GraphQL, Node.js
+       ........     -++  ++               Database ............... PostgreSQL, MySQL, MS SQL
+     ...------...  .++++++++              DevOps ................. Docker, CI/CD (Jenkins), Firebase, Keycloak
+..-. ...--+####+-.   .+--++#-.......      Workflow ............... Git (GitLab, BitBucket), Webpack, npm, nvm
+--+- .-.-########+-..+--..-+#++++#+++++   Management / Design .... Jira, Trello, Asana, Slack, CRM, Figma, Adobe CC
 .-+-..-##########+++---   .++##########   
----++#######+-##++ . ---..+++++++++++##   Languages .............. russian (native), english B1, polish A2
+---++#######+-##++ . ---..+++++++++++##   Languages .............. Russian (native), English B1, Polish A2
 .-----###-.. .+++. ...--..++++++++++###   
--..--------...--.-..---...++-+--+++#++#   - contact - 
+-..--------...--.-..---...++-+--+++#++#   - CONTACT - 
 .......---..-----------...-+#+---++--++   
 ------------++++---------.-+--+----++-.   linkedin ............... linkedin.com/in/onqqr
 +++++++++++++++++--------.+++++++++--++   telegram ............... t.me/onqqr
