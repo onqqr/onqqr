@@ -7,7 +7,7 @@
                        --                 ------------------------------------------------------
                        +-                 OS ..................... macOS / Windows
                       .--                 IDE .................... Cursor / vscode / Rider
-             .+++.    --+.                AI-tools ............... Cursor AI
+             .+++.    --+.                AI-tools ............... Cursor AI, Claude AI
              ---+-   .+##+                Langs .................. JS, TS, C#, Python
              ...-    .++++                Core ................... Angular v14-22 (Signals, RxJS, NgRx)
            .   .     -+. +.               BE / API ............... .NET, REST API, GraphQL, Node.js, OpenAPI
